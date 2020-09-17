@@ -1,0 +1,31 @@
+html,body{
+    background-color: yellowgreen;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: cover;
+}
+h1{
+    margin-left: 25%;
+    font-family: cursive;
+    font-size: 250%;
+}
+h3{
+    margin-left: 2%;
+}
+h4{
+    margin-left: 6%;
+    font-size: 100%;
+}
+.btn1{
+    margin-left: 18%;
+    margin-top: 5%;
+    background-image: linear-gradient(to right, rgb(255, 136, 0),rgb(255, 208, 0));
+    padding: 10px;
+    border: 1px solid white;
+    font-size: medium;
+    font-family: cursive;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
